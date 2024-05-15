@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuList" type="id" />
+    <item name="imgMusic" type="id" />
+    <item name="txt_music_title" type="id" />
+    <item name="txt_singer_name" type="id" />
+    <item name="isMusic_click" type="id" />
+</resources>
